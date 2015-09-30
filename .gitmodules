@@ -1,0 +1,3 @@
+[submodule "files/default"]
+	path = files/default
+	url = https://github.com/selivan/apt-strict.git
